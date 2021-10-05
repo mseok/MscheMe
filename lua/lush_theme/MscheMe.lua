@@ -22,7 +22,7 @@ local MParameters        = hsl("#5FAFFF")
 local MParameterUnused   = hsl("#87D7FF") -- cterm=underline gui=underline
 local MFree              = hsl("#FFAFD7")
 local MBuiltin           = hsl("#FF5FFF")
-local MAttribute         = hsl("#00FFAF")
+local MAttribute         = hsl("#00D787")
 local MSelf              = hsl("#B2B2B2")
 
 local theme = lush(function()
